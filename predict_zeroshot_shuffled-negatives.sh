@@ -1,0 +1,1 @@
+python PanPep.py --learning_setting zero-shot --input ./Data/zeroshot_shuffled-negatives.csv --output ./Output/zeroshot_shuffled-negatives_out.csv
